@@ -1,0 +1,59 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(../html/mandela.otf);
+}
+
+#top {
+   font-family: myFirstFont;
+   font-size: 3vw;
+   padding-left: 4vw;
+   padding-top: 1vw;
+   color: white;
+   border-bottom: .3vw solid white;
+  }
+.inp1{
+     display: block;
+     margin: auto;
+     max-width: 400px;
+     width:40vw;
+     border: 2px solid black;
+     height: 30px;
+     max-height: 40px;
+     font-size: 1.12vw;
+
+}
+.inp2{
+     display: block;
+     margin: auto;
+     max-width: 400px;
+     width:40vw;
+     border: 2px solid black;
+     height: 35px;
+     max-height: 40px;
+     color: white;
+     background-color: #262626;
+     margin-top: 10px;
+     font-size: 1.4vw;
+     font-family: myFirstFont;
+     color:rgb(247, 72, 78);
+}
+.username
+{
+
+  text-align: center;
+  color: white;padding-top: 2em;
+}
+.red1{
+  color:rgb(247, 72, 78);
+}
+.form1
+{
+  margin-top:120px;
+}
+@media screen and (max-width: 600px){
+   
+   #top{font-size: 30px;}
+   #cart{font-size: 13px;}
+   .inp1,.inp2{font-size: 12px;width: 100%;}
+
+}

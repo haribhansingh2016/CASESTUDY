@@ -1,0 +1,14 @@
+com/casestudy/model/Order.class
+com/casestudy/config/AppConfig.class
+com/casestudy/service/ProductService.class
+com/casestudy/dao/ProductDao.class
+com/casestudy/model/User.class
+com/casestudy/service/ProductServiceImpl.class
+com/casestudy/config/HibernateConfiguration.class
+com/casestudy/model/Address.class
+com/casestudy/dao/AbstractDao.class
+com/casestudy/model/AttributeValuePair.class
+com/casestudy/controller/AppController.class
+com/casestudy/dao/ProductDaoImpl.class
+com/casestudy/model/Product.class
+com/casestudy/config/AppInitializer.class

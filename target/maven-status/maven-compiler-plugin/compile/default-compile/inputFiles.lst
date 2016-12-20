@@ -1,0 +1,14 @@
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/model/User.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/config/AppConfig.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/dao/ProductDao.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/service/ProductService.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/model/Address.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/model/Order.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/model/AttributeValuePair.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/model/Product.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/dao/AbstractDao.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/config/AppInitializer.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/controller/AppController.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/dao/ProductDaoImpl.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/config/HibernateConfiguration.java
+/home/beehyv/workspace/ShoppingBee4/src/main/java/com/casestudy/service/ProductServiceImpl.java

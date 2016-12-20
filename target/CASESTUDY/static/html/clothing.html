@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="../css/home.css">
+</head>
+<body   background="../images/background.jpg">
+
+<div id="top">
+Shopping<span class="red1">Bee</span>
+</div>
+<div id="cart">
+	<a href="cart.html" class="a1"><span class="span1"><span class="glyphicon glyphicon-shopping-cart"></span> Mycart</span></a> 
+	<a href="login.html" class="a1"><span class="span2">Logout</span></a> 
+</div>
+<ul id="nav">
+  <li><a href="http://localhost:8080/CASESTUDY/home" >Home</a></li>
+  <li><a href="http://localhost:8080/CASESTUDY/electronics" >Electronics</a></li>
+  <li><a href="http://localhost:8080/CASESTUDY/books" ">Books</a></li>
+  <li><a href="http://localhost:8080/CASESTUDY/sports" >Sports</a></li>
+  <li><a href="http://localhost:8080/CASESTUDY/clothing" class="active">Clothing</a></li>
+</ul>
+<div class="container-fluid"  id="cf1">
+ <div class="col-md-3" id="cf2">
+  
+  <table class="table table-bordered"  id="cf3">
+    <thead>
+      <tr>
+        <th class="th1">Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td  class="td1">  <input type="checkbox" name="inps1"  id="h1"> 0-499</td>
+      </tr>
+      <tr>
+        <td  class="td1">  <input type="checkbox" name="inps2"  id="h2"> 500-999</td>
+      </tr>
+      <tr>
+        <td  class="td1">  <input type="checkbox" name="inps3" id="h3"> 1000-2999</td>
+      </tr>
+      <tr>
+        <td  class="td1">  <input type="checkbox" name="inps4" id="h4"> over 3000 </td>
+      </tr>
+    </tbody>
+  </table>
+ </div>
+ <div class="col-md-9"  id="boy">
+ </div>
+</div>
+
+<script type="text/javascript" src="../js/clothing.js"></script>
+</body>
+</html>
